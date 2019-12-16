@@ -1,5 +1,7 @@
 # SB_submissions
 
+## MINI PROJECTS
+
 1. The Json exercise can be found here [JSON Based Data Exercise](Json_ex/Json_exer.ipynb)
 
 2. API Mini Projects can be found here [API Mini Project](/api_sol.ipynb)
@@ -22,6 +24,8 @@
 10. Customer segmentation using clustering
 
 11. MapReduce with Spark
+
+## CAPSTONE PROJECTS
 
 1. Capstone 1
 
