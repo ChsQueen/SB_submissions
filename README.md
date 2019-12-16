@@ -21,4 +21,10 @@
 
 10. Customer segmentation using clustering
 
-11. The Capstone Brainstorm is found here [Capstone](/Capstone)
+11. MapReduce with Spark
+
+1. Capstone 1
+
+2. Capstone 2
+
+The Capstone Brainstorm is found here [Capstone](/Capstone)
