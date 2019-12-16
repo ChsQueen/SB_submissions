@@ -27,4 +27,4 @@
 
 2. Capstone 2
 
-The Capstone Brainstorm is found here [Capstone](/Capstone)
+   The Capstone Brainstorm is found here [Capstone](/Capstone)
