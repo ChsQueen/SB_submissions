@@ -9,7 +9,5 @@
 4. The Capstone Brainstorm is found here [Capstone](/Capstone)
 
 5. Statistical Methods for Data Analysis - 
-        Frequentist inference [Frequentist inference](Stat_methods/Freq_inference.ipynb)
-        , Bootstrap inference [Bootstrap inference](Stat_methods/Bootstrap_inference.ipynb)
-        , Bayesian inference [Bayesian inference](Stat_methods/Bayesian_inference.ipynb)
+        Frequentist inference [Frequentist inference](Stat_methods/Freq_inference.ipynb), Bootstrap inference [Bootstrap inference](Stat_methods/Bootstrap_inference.ipynb), Bayesian inference [Bayesian inference](Stat_methods/Bayesian_inference.ipynb)
       
