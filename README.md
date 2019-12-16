@@ -1,4 +1,4 @@
-# SB_submissions
+# Submissions
 
 ## MINI PROJECTS
 
