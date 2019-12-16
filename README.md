@@ -1,6 +1,6 @@
 # SB_submissions
 
-1. The Json exercise can be found here [Json based Data exercise](Json_ex/Json_exer.ipynb)
+1. The Json exercise can be found here [JSON Based Data Exercise](Json_ex/Json_exer.ipynb)
 
 2. API Mini Projects can be found here [API Mini Project](/api_sol.ipynb)
 
