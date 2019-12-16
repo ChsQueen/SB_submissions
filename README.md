@@ -4,7 +4,7 @@
 
 2. API Mini Projects can be found here [API Mini Project](/api_sol.ipynb)
 
-3. The Sql submission is here [SQl Mini Project](/Sql_hw)
+3. The Sql submission is here [SQL Mini Project](/Sql_hw)
 
 4. The Capstone Brainstorm is found here [Capstone](/Capstone)
 
