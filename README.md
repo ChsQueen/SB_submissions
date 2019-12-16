@@ -6,8 +6,19 @@
 
 3. The Sql submission is here [SQL Mini Project](/Sql_hw)
 
-4. The Capstone Brainstorm is found here [Capstone](/Capstone)
+4. Mini Projects for Exploratory Data Analysis (EDA) - 
+        Frequentist inference [Frequentist inference](Stat_methods/Freq_inference.ipynb), 
 
-5. Mini Projects for Exploratory Data Analysis (EDA) - 
-        Frequentist inference [Frequentist inference](Stat_methods/Freq_inference.ipynb), Bootstrap inference [Bootstrap inference](Stat_methods/Bootstrap_inference.ipynb), Bayesian inference [Bayesian inference](Stat_methods/Bayesian_inference.ipynb)
+5. Mini Projects for Exploratory Data Analysis -Bootstrap inference [Bootstrap inference](Stat_methods/Bootstrap_inference.ipynb)
+
+6. Mini Projects for Exploratory Data Analysis -Bayesian inference [Bayesian inference](Stat_methods/Bayesian_inference.ipynb)
       
+7. Linear Regression Using Boston Housing Data Set 
+
+8. Heights and weights using Logistic Regression
+
+9. Predictive movie ratings from reviews using naive bayes
+
+10. Customer segmentation using clustering
+
+11. The Capstone Brainstorm is found here [Capstone](/Capstone)
