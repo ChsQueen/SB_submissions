@@ -11,7 +11,7 @@
 4. Mini Projects for Exploratory Data Analysis (EDA) - 
         Frequentist inference [Frequentist inference](Frequentist_statistics), 
 
-5. Mini Projects for Exploratory Data Analysis -Bootstrap inference [Bootstrap inference](Stat_methods/Bootstrap_inference.ipynb)
+5. Mini Projects for Exploratory Data Analysis -Bootstrap inference [Bootstrap inference](Bootstrap)
 
 6. Mini Projects for Exploratory Data Analysis -Bayesian inference [Bayesian inference](Stat_methods/Bayesian_inference.ipynb)
       
