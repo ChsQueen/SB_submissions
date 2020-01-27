@@ -9,7 +9,7 @@
 3. The Sql submission is here [SQL Mini Project](/Sql_hw)
 
 4. Mini Projects for Exploratory Data Analysis (EDA) - 
-        Frequentist inference [Frequentist inference](Stat_methods/Freq_inference.ipynb), 
+        Frequentist inference [Frequentist inference](Frequentist_statistics), 
 
 5. Mini Projects for Exploratory Data Analysis -Bootstrap inference [Bootstrap inference](Stat_methods/Bootstrap_inference.ipynb)
 
