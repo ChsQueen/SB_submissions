@@ -21,9 +21,9 @@
 
 9. Predictive movie ratings from reviews using Naive Bayes - Naive Bayes [Naive_Bayes](Naive_Bayes)
 
-10. Customer segmentation using clustering
+10. Customer segmentation using clustering - Clustering [Clustering](Clustering)
 
-11. MapReduce with Spark
+11. MapReduce with Spark - MapReduceProject [MapReduceProject](MapReduceProject)
 
 ## CAPSTONE PROJECTS
 
