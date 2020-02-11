@@ -27,8 +27,8 @@
 
 ## CAPSTONE PROJECTS
 
-1. Capstone 1 CapstoneOne [CapstoneOne](CapstoneOne)
+1. Capstone 1  [CapstoneOne](CapstoneOne)
 
-2. Capstone 2 CapstoneTwo [CapstoneTwo](CapstoneTwo)
+2. Capstone 2  [CapstoneTwo](CapstoneTwo)
 
    The Capstone Brainstorm is found here [Capstone](/Capstone)
