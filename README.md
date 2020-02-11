@@ -15,7 +15,7 @@
 
 6. Mini Projects for Exploratory Data Analysis -Bayesian inference [Bayesian inference](Stat_methods/Bayesian_inference.ipynb)
       
-7. Linear Regression Using Boston Housing Data Set 
+7. Linear Regression Using Boston Housing Data Set - Linear Regression [Linear Regression](Linear Regression)
 
 8. Heights and weights using Logistic Regression
 
