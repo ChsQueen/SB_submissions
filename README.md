@@ -17,7 +17,7 @@
       
 7. Linear Regression Using Boston Housing Data Set - Linear Regression [Linear_Regression](Linear_Regression)
 
-8. Heights and weights using Logistic Regression - Linear Regression [Logistic_Regression](Logistic_Regression)
+8. Heights and weights using Logistic Regression - Logistic Regression [Logistic_Regression](Logistic_Regression)
 
 9. Predictive movie ratings from reviews using Naive Bayes - Naive Bayes [Naive_Bayes](Naive_Bayes)
 
