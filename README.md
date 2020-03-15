@@ -27,7 +27,7 @@
 
 ## CAPSTONE PROJECTS
 
-1. Capstone 1  [Capstone](Capstone)
+1. Capstone 1  [Capstone1](Capstone1)
 
 2. Capstone 2  [CapstoneTwo](CapstoneTwo)
 
