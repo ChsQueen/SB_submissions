@@ -29,6 +29,6 @@
 
 1. Capstone 1  [Capstone1](Capstone1)
 
-2. Capstone 2  [CapstoneTwo](CapstoneTwo)
+2. Capstone 2  [CapstoneTwo](Capstone2)
 
    The Capstone Brainstorm is found here [Capstone](/Capstone)
